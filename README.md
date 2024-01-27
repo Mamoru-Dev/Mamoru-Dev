@@ -3,11 +3,10 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
----
 
 ### :technologist: Обо мне:
 
-Web-developer с 3 годами опыта в коммерческой разработки <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в web начался с <i>КРОК</i> в 2020, где я проходил учебную стажировку на позицию <img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="15px"><b> ASP.NET</b> backend-разработчика. С октября по ноябрь 2021 стажировался в <i>Лиге Цифровой Экономике</i> на позиции <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="15px"> <b>RubyOnRails</b> backend-разработчика. После успешного прохождения двух стажировок погрузился во frontend-разработку и по настоящее время активно развиваюсь в этом направлении.<br>
+Web-developer с 3 годами опыта в коммерческой разработки <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в web начался с <i>КРОК</i> в 2020, где я проходил учебную стажировку на позицию <img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="15px"><b> ASP.NET</b> backend-разработчика. С октября по ноябрь 2021 стажировался в <i>Лиге Цифровой Экономике</i> на позиции <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="15px"> <b>RubyOnRails</b> backend-разработчика. После успешного прохождения двух стажировок активно погрузился во frontend-разработку и по настоящее время активно развиваюсь по этому направлению.<br>
 С октября 2022 по июль 2023 работал в МГППУ на позиции Fullstack-dev, где разрабатывал сайт портфолио студента с использованием <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15px"> <b>React</b> и <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="15px"> <b>RubyOnRails</b>.
 
 
@@ -15,20 +14,7 @@ Web-developer с 3 годами опыта в коммерческой разр�
 
 - :mage_man: Студент 2-го курса магистратуры МАИ по направлению "Прикладная математика"
 
----
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://t.me/Tschernakow" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/tschernakow" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-    <a href="mailto:cloudmamoru.it@gmail.com" target="_blank">
-      <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" width="40" height="40" alt="Zen Badge"/>
-    </a>
-  </div>
+- :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Tschernakow-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tschernakow)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:cloudmamoru.it@gmail.com)
 
 ---
 ### 💻 Frontend технологии:
@@ -67,3 +53,31 @@ Web-developer с 3 годами опыта в коммерческой разр�
 </p>
 
 ---
+
+### 👨🏻‍🎓 Kурсы:
+
+| Название курса                                                  | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| stepik.orn/Ruby - первое знакомство                             | 09/2021 - 10/2021 |
+| stepik.org/JavaScript для начинающих                            | 01/2022 - 02/2022 |
+| stepik.org/Тренажер по вёрстке, плагин Emmet                    | 03/2022 - 04/2022 |
+| stepik.org/Введение в TypeScript                                | 05/2022 - 07/2022 |
+| purpleschool.ru//HTML и CSS                                     | 05/2022 - 07/2022 |
+| purpleschool.ru/React и Redux Toolkit                           | 10/2022 - 01/2023 |
+| it-incubator.io/ReactJS - путь самурая 1.0                      | 06/2023 - 07/2023 |
+| ulbitv.ru/Продвинутый Frontend                                  | 12/2023 - xx/2024 |
+
+---
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=CloudMamoru&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CloudMamoru&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
