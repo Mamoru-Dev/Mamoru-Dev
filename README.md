@@ -1,6 +1,5 @@
 <div align="center">
-   <h1>Привет, меня зовут Александр<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <h1>Привет, меня зовут Александр<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 </div>
 
 
@@ -9,7 +8,7 @@
 Web-developer с 3 годами опыта в коммерческой разработки <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в web начался с <i>КРОК</i> в 2020, где я проходил учебную стажировку на позицию <img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="15px"><b> ASP.NET</b> backend-разработчика. С октября по ноябрь 2021 стажировался в <i>Лиге Цифровой Экономике</i> на позиции <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="15px"> <b>RubyOnRails</b> backend-разработчика. После успешного прохождения двух стажировок активно погрузился во frontend-разработку и по настоящее время активно развиваюсь по этому направлению.<br>
 С октября 2022 по июль 2023 работал в МГППУ на позиции Fullstack-dev, где разрабатывал сайт портфолио студента с использованием <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15px"> <b>React</b> и <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="15px"> <b>RubyOnRails</b>.
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 
 - :airplane: Бакалавр МАИ по направлению "Прикладная математика"
 
