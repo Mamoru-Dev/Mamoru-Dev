@@ -9,12 +9,13 @@
 Web-developer с 3 годами опыта в коммерческой разработки <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в web начался с <i>КРОК</i> в 2020, где я проходил учебную стажировку на позицию <img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="15px"><b> ASP.NET</b> backend-разработчика. С октября по ноябрь 2021 стажировался в <i>Лиге Цифровой Экономике</i> на позиции <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="15px"> <b>RubyOnRails</b> backend-разработчика. После успешного прохождения двух стажировок активно погрузился во frontend-разработку и по настоящее время активно развиваюсь по этому направлению.<br>
 С октября 2022 по июль 2023 работал в МГППУ на позиции Fullstack-dev, где разрабатывал сайт портфолио студента с использованием <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15px"> <b>React</b> и <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="15px"> <b>RubyOnRails</b>.
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 - :airplane: Бакалавр МАИ по направлению "Прикладная математика"
 
 - :mage_man: Студент 2-го курса магистратуры МАИ по направлению "Прикладная математика"
 
-- :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Tschernakow-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tschernakow)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:cloudmamoru.it@gmail.com)
+:mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Tschernakow-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tschernakow)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:cloudmamoru.it@gmail.com)
 
 ---
 ### 💻 Frontend технологии:
