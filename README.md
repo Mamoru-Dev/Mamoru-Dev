@@ -1,15 +1,21 @@
 <div align="center">
-   <h1>Привет, меня зовут Александр<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" />
 </div>
 
-<iframe src="https://giphy.com/embed/dSdSQmzlJopuqueF2i" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animatr-aesthetic-dSdSQmzlJopuqueF2i">via GIPHY</a></p>
+<div align="center">
+   <h1>Hello 👋🏻 &nbsp; My name is Aleksandr <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+</div>
 
-### :technologist: Обо мне:
 
-Web-developer с 2 годами опыта в коммерческой разработки <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в web начался с <i>КРОК</i> в 2020, где я проходил учебную стажировку на позицию <img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="15px"><b> ASP.NET</b> backend-разработчика. С октября по ноябрь 2021 стажировался в <i>Лиге Цифровой Экономике</i> на позиции <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="15px"> <b>RubyOnRails</b> backend-разработчика. После успешного прохождения двух стажировок погрузился во frontend-разработку и по настоящее время активно развиваюсь по этому направлению.<br>
-С октября 2022 по июнь 2024 работал в МГППУ на позиции Fullstack-dev, где разрабатывал сайт портфолио студента с использованием <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15px"> <b>React</b> и <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="15px"> <b>RubyOnRails</b>.
+### :technologist: About me:
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+
+Web Developer with 2 years of experience in developing and optimizing high-load web applications and interfaces.  
+Specialize in **JavaScript** <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="15px"> and **TypeScript** <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="15px"> combined with the **React** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15px"> library for frontend development and **NestJS** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="15px"> for backend solutions.  
+Responsible and results-driven, skilled at effective teamwork, quick to adapt to new technologies, and always eager to improve my skills.  
+Motivated to work on exciting projects, learn from more experienced colleagues, and make a meaningful contribution to the team's success.
+
+
 
 - :airplane: Бакалавр МАИ по направлению "Прикладная математика"
 
