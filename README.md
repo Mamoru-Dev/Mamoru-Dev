@@ -1,20 +1,11 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" />
+  <img src="https://i.ytimg.com/vi/mBy3LG-sy_Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBYTB_nnhuDByGC8mbxmvQdn4uCUw" width="450">
 </div>
 
 <div align="center">
    <h1>Hello 👋🏻 &nbsp; My name is Aleksandr <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 </div>
 
-
-
-
-
-<img src="https://i.ytimg.com/vi/egTHY__aOCI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_kjA_JQhstNPun_mLP9q20zu8CQ" width="500">
-
-<img src="https://i.ytimg.com/vi/1aLvspsSm_A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDsgUih_MA8=&rs=AOn4CLAxnMz7HCon45WdJjRs5DGnUFyLwA" width="500">
-
-<img src="https://i.ytimg.com/vi/mBy3LG-sy_Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBYTB_nnhuDByGC8mbxmvQdn4uCUw" width="500">
 
 ### :technologist: About me:
 
