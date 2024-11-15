@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   <h1>Hello 👋🏻 &nbsp; My name is Aleksandr <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+   <h1>Hello 👋🏻 &nbsp; My name is Aleksandr!</h1>
 </div>
 
 
