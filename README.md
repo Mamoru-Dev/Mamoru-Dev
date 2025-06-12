@@ -25,7 +25,7 @@ Moscow Aviation Institute (MAI), Major: Applied Mathematics
 Moscow Aviation Institute (MAI), Major: Applied Mathematics  
 <i>September 2022 – June 2024</i>  
 
-:mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-CloudMamoru-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/CloudMamoru)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:cloudmamoru.it@gmail.com)
+:mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-CloudMamoru-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mamoru_dev)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:cloudmamoru.it@gmail.com)
 
 ---
 ### 💻 Frontend:
